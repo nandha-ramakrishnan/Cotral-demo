@@ -1,4 +1,4 @@
 :HL["/Cotral-demo/_next/static/css/78f319e3b6d90964.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"TWI06_8Sn7aUAHSfcmTML","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"4Dhdu_qP_dsD_kVQOQb-9","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
