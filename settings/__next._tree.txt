@@ -1,0 +1,5 @@
+:HL["/Cotral-demo/_next/static/css/7e9cc16a32a908dd.css","style"]
+:HL["/Cotral-demo/_next/static/css/e942fdee7c44f4b0.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"settings","h":96,"c":"$Q2"}]]
+0:{"b":"2sLAZ1lLcZ7-rJwCgEP2D","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

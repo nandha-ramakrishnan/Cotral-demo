@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"static/chunks/568-66e5f4bdc1fba52f.js"
+3:"static/chunks/app/settings/page-1a621e06ffc67eaf.js"
+4:"AppearanceBootstrap"
+5:I[4724,["568","$2","662","$3"],"$4"]
+6:"AppearanceProvider"
+7:I[4724,["568","$2","662","$3"],"$6"]
+8:I[1133,[],""]
+9:I[4297,[],""]
+10:I[9568,["568","$2","662","$3"],""]
+11:"AppearanceSettings"
+12:I[4724,["568","$2","662","$3"],"$11"]
+13:I[1872,[],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[1872,[],"$17"]
+19:"MetadataBoundary"
+1a:I[1872,[],"$19"]
+1b:I[2569,[],"IconMark"]
+:HL["/Cotral-demo/_next/static/css/7e9cc16a32a908dd.css","style"]
+:HL["/Cotral-demo/_next/static/css/e942fdee7c44f4b0.css","style"]
+b:X
+e:X
+e:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","header",null,{"className":"header","children":[["$","$L10",null,{"className":"brand","href":"/","aria-label":"Cotral home","children":[["$","span",null,{"className":"brand-mark","children":["$","svg",null,{"data-testid":"cotral-logo","width":34,"height":34,"viewBox":"0 0 64 64","aria-hidden":"true","focusable":"false","children":[["$","rect",null,{"width":"64","height":"64","rx":18,"fill":"#365cf5"}],["$","path",null,{"d":"M19 45 44 20M22 20h22v22","stroke":"#ffffff","strokeWidth":6,"fill":"none"}]]}]}],"cotral",["$","span",null,{"className":"brand-dot","children":"."}]]}],["$","nav",null,{"aria-label":"Main navigation","children":[["$","$L10",null,{"href":"/","children":"← Back home"}],["$","$L10",null,{"href":"/settings","aria-label":"Open settings","style":{"display":"inline-flex","alignItems":"center","justifyContent":"center","minWidth":44,"minHeight":44},"children":["$","svg",null,{"width":"24","height":"24","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.7","aria-hidden":"true","children":[["$","path",null,{"d":"m9.5 3-.6 2.3-1.6.9-2.3-.6-2.5 4.3 1.7 1.7v1.8L2.5 15l2.5 4.3 2.3-.6 1.6.9.6 2.4h5l.6-2.4 1.6-.9 2.3.6 2.5-4.3-1.7-1.6v-1.8l1.7-1.7L19 5.6l-2.3.6-1.6-.9L14.5 3Z"}],["$","circle",null,{"cx":"12","cy":"12.5","r":"3"}]]}]}]]}]]}],["$","main",null,{"id":"main","className":"container","children":[["$","div",null,{"className":"page-intro","children":[["$","h1",null,{"children":"Settings"}],["$","p",null,{"className":"notice","role":"note","children":"Fictional public demo. Appearance stays on this browser; account and private group features are available only in the configured application."}]]}],["$","section",null,{"className":"demo-panel","children":[["$","h2",null,{"children":"Appearance"}],["$","$L12",null,{}]]}]]}]],[["$","link","0",{"rel":"stylesheet","href":"/Cotral-demo/_next/static/css/e942fdee7c44f4b0.css","precedence":"next"}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$b"}}]]
+c:[["children",{"s":"settings","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Cotral-demo/_next/static/css/7e9cc16a32a908dd.css","precedence":"next"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","$L5",null,{}]}],["$","body",null,{"children":["$","$L7",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Appearance preview · Cotral"}],["$","meta","1",{"name":"description","content":"A fictional preview of Cotral’s private group trip planner."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/Cotral-demo/icon.svg?92796b298c5c895e","type":"image/svg+xml","sizes":"any"}],["$","$L1b","4",{}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$b"}},"a":"$@1d","u":"$@1e","b":"2sLAZ1lLcZ7-rJwCgEP2D"}
+15:null
+b:300
+1e:true
+b:C
+1d:0
+d:"$undefined"
+a:"$undefined"
+1c:"$undefined"
+16:"$undefined"
